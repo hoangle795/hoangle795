@@ -2,7 +2,7 @@
 <h3 align="center">Computer Networks & Data Communications Student @ UIT - VNU-HCM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Networking+%7C+System+%2F+Automation+%7C+Cybersecurity+%7C+SCADA+%2F+IEC+61850;AI+Agents+%7C+Cloud+%26+DevOps;Currently+interning+at+EVNHCMC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Networking+%7C+SystemAutomation+%7C+SCADA+%2F+IEC+61850;AI+Agents+%7C+Cloud+%26+DevOps;Currently+interning+at+EVNHCMC" alt="Typing SVG" />
 </p>
 
 <p align="center">
